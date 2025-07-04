@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.main-container {
+    display: flex;
+    /* justify-content: space-around; */
+}
+
+.breadcrumb {
+    color: #565959;
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.main-anchor{
+    color: #007185;
+}
+
+.main-text {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.left-column {
+    /* border: 2px dotted red; */
+    padding: 10px;
+    margin-right: 10px;
+    width: auto;
+}
+
+.right-column {
+    /* border: 2px dotted blue; */
+    width: auto
+}
